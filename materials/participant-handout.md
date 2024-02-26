@@ -1,6 +1,6 @@
 # Food At Your Fingertips
 
-![A group of people sitting at tables in a restaurant](img/resturant.png)
+![A group of people sitting at tables in a restaurant](../img/resturant.png)
 
 A leading restaurant chain wants to provide its customers with the ability to order food and drinks, directly from their table using a tablet provided by the restaurant, which will be embedded into the table. Orders will then be processed, and food and drinks delivered to the table by staff.
 
