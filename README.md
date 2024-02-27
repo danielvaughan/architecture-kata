@@ -2,15 +2,15 @@
 
 ## Objectives
 
-The goal of an architecture kata is for teams to design a system in response to a Request for Proposal (RFP) from a fictitious customer. Teams then come tegether to present their solution to the group. 
+The goal of an architecture kata is for teams to design a system in response to a Request for Proposal (RFP) from a fictitious customer. Teams then come together to present their solution to the group.
 
-The requirements are deliberately incomplete with facilitators acting as Product Managers to clarify requirements and provide context by answering questions. 
+The requirements are deliberately incomplete with facilitators acting as Product Managers to clarify requirements and provide context by answering questions.
 
 One of the main benefits of this exercise is the appreciation of different perspectives and approaches to the problem both from teammates in the design phase and from other teams in the presentation phase. This can be reinforced by an optional retrospective at the end of the session.
 
 ## Source
 
-The Architecture Kata was initially developed by Ted Neward. This example RFP used in this exercise is based on one developed by [Matthew Belcher](https://www.linkedin.com/in/matthewbelcher/).
+The Architecture Kata was initially developed by Ted Neward. This example RFP used in this exercise is based on one developed by [Matthew Belcher](https://www.linkedin.com/in/matthewbelcher/). Other Kata exercises are available at [nealford.com](https://nealford.com/katas/list.html).
 
 ## Teams
 
@@ -20,7 +20,7 @@ Participants form teams of ideally 3-4 people. Although teams of up to six can w
 
 The typical duration of this workshop will be 90 to 120 minutes depending on the number of teams and so the time required for presentations and whether there is a retrospective.
 
-### Suggested Timings 
+### Suggested Timings
 
 * Welcome and introduction presentation (5 minutes)
 * Design time (50 minutes)
@@ -34,9 +34,9 @@ The typical duration of this workshop will be 90 to 120 minutes depending on the
 * Post-it notes
 * Sharpie markers
 * Facilitators to act as Product Managers - ideally more than one when more than three teams.
-* Several paper versions of the [Participant Handout](./materials/participant-handout.md) per team.
-* A paper version of the [Product Manager Brief](./materials/product-manager-brief.md) for each facilitator.
-* A timer, an iPad or simular is ideal.
+* Several paper versions of the [Participant Handout](./materials/pdf/participant-handout.pdf) per team.
+* A paper version of the [Product Manager Brief](./materials/pdf/product-manager-brief.pdf) for each facilitator.
+* A timer, an iPad or similar is ideal.
 
 ## Running the Session
 
@@ -46,9 +46,9 @@ When the teams have been formed, give them 5-10 minutes to review and discuss th
 
 When there is 20 minutes left of the design session remind each team that they will have 5 minutes to present there solution and to think about how best to present it. At 15, 10 and 5 minutes remaining remind the teams.
 
-When the 50 minutes for design is up bring the teams together and ask the first team to present. Use a timer to make sure each team get 5 minutes to present. Don't be afriad to cut an overrunning team off. After each presentation ask the other teams if they have any questions. As a facilitator it is good to have a question in mind in case there are not any from the other teams.
+When the 50 minutes for design is up bring the teams together and ask the first team to present. Use a timer to make sure each team get 5 minutes to present. Don't be afraid to cut an overrunning team off. After each presentation ask the other teams if they have any questions. As a facilitator, it is good to have a question in mind in case there are not any from the other teams.
 
-At the end of the session it is useful to have a brief, informal retrospective by asking the participates the following:
+At the end of the session, it is useful to have a brief, informal retrospective by asking the participates the following:
 
 * What went well?
 * What did you learn?

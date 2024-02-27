@@ -14,4 +14,4 @@ That said below are important notes than can be shared with the groups, as and w
 * **Gift Voucher System**: There's an existing, albeit outdated and slow, system for redeeming gift vouchers via HTTP APIs. While it's scheduled for a future overhaul, the current integration must account for its limitations.
 * **Menu Management**: Restricted access for menu updates is necessary. Only designated staff members should have the permissions to modify menu items, prices, and images.
 * **Booking Integration**: The new system should integrate with the existing booking system for handling future reservations.
-* **Future Plans**: There are currently 20 restaurants in the chain and each outlet had 50 covers. If this concept is successful there is the possibility of expansion into Asian markets and/or franchising. 
+* **Future Plans**: There are currently 20 restaurants in the chain and each outlet had 50 covers. If this concept is successful there is the possibility of expansion into Asian markets and/or franchising.
