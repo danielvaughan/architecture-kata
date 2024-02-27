@@ -40,7 +40,7 @@ The typical duration of this workshop will be 90 to 120 minutes depending on the
 
 ## Running the Session
 
-The [Introduction Presentation](./materials/) provides explains the background and purpose of an Architecture Kata and how the workshop will run. It also states some important rules and finishes with asking the participants to get into teams.
+The [Introduction Presentation](./materials/pptx/introduction-presentation.pptx) provides explains the background and purpose of an Architecture Kata and how the workshop will run. It also states some important rules and finishes with asking the participants to get into teams. There is a [presentation script](./materials/pdf/presentation-script.pdf) to go with the presentation.
 
 When the teams have been formed, give them 5-10 minutes to review and discuss the RFP. If the teams want to ask questions go over and use the Product Manager brief to answer as a Product Manager. Make sure that one of the facilitators has visits each team after 10 minutes whether they have asked questions or not. For the rest of the design session continue to be available for any team that has questions and check in with each team.
 
