@@ -38,6 +38,8 @@ The typical duration of this workshop will be 90 to 120 minutes depending on the
 * A paper version of the [Product Manager Brief](./materials/pdf/product-manager-brief.pdf) for each facilitator.
 * A timer, an iPad or similar is ideal.
 
+![Room Setup](./materials/img/room.jpg)
+
 ## Running the Session
 
 The [Introduction Presentation](./materials/pptx/introduction-presentation.pptx) provides explains the background and purpose of an Architecture Kata and how the workshop will run. It also states some important rules and finishes with asking the participants to get into teams. There is a [presentation script](./materials/pdf/presentation-script.pdf) to go with the presentation.
