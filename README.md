@@ -52,6 +52,8 @@ When there are 20 minutes left of the design session, remind each team that they
 
 When the 50 minutes for design are up, bring the teams together and ask the first team to present. Use a timer to make sure each team get 5 minutes to present. Don't be afraid to cut an overrunning team off. After each presentation ask the other teams if they have any questions. As a facilitator, it is good to have a question in mind in case there are not any from the other teams.
 
+## Retrospective
+
 At the end of the session, it is useful to have a brief, informal retrospective by asking the participates the following:
 
 * What went well?
