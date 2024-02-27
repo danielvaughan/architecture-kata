@@ -38,6 +38,8 @@ The typical duration of this workshop will be 90 to 120 minutes depending on the
 * A paper version of the [Product Manager Brief](./materials/pdf/product-manager-brief.pdf) for each facilitator.
 * A timer, an iPad or similar is ideal.
 
+If, as in this exercise, you make reference to a Cloud environment, you may like to provide a reference sheet of services such as the [GCP Cheatsheet](./materials/gcp-poster.pdf).
+
 ![Room Setup](./materials/img/room.jpg)
 
 ## Running the Session
