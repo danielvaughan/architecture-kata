@@ -2,7 +2,7 @@
 
 ## Objectives
 
-The goal of an architecture kata is for teams to design a system in response to a Request for Proposal (RFP) from a fictitious customer. Teams then come together to present their solution to the group.
+The goal of an architecture kata is for teams to design a system in response to a [Request for Proposal](https://en.wikipedia.org/wiki/Request_for_proposal) (RFP) from a fictitious customer. Teams then come together to present their solution to the group.
 
 The requirements are deliberately incomplete with facilitators acting as Product Managers to clarify requirements and provide context by answering questions.
 
