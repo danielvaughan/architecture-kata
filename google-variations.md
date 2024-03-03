@@ -10,7 +10,7 @@ Another good resource would be the book [Visualising Google Cloud](https://cloud
 
 ## 2. Google Green Software Variation
 
-The task is as a variation one, but in addition, the teams are given the [Google Go Green Software Guide] (./materials/google/google-green-software.pdf) and a requirement added to the task for teams to consider how the software could be made less carbon intensive.
+The task is as a variation one, but in addition, the teams are given the [Google Go Green Software Guide](./materials/google/google-green-software.pdf) and a requirement added to the task for teams to consider how the software could be made less carbon intensive.
 
 ## 3. Google GenAI Variation
 
