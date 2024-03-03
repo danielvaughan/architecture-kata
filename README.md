@@ -1,5 +1,7 @@
 # Architecture Kata — Facilitator Playbook
 
+The results of running this kata at Mastercard as written-up in [this article](https://blog.danielvaughan.com/architecture-kata-at-mastercard-6f8515dd60ec).
+
 ## Objectives
 
 The goal of an architecture kata is for teams to design a system in response to a [Request for Proposal](https://en.wikipedia.org/wiki/Request_for_proposal) (RFP) from a fictitious customer. Teams then come together to present their solution to the group.
@@ -37,8 +39,6 @@ The typical duration of this workshop will be 90 to 120 minutes depending on the
 * Several paper versions of the [Participant Handout](./materials/pdf/participant-handout.pdf) per team.
 * A paper version of the [Product Manager Brief](./materials/pdf/product-manager-brief.pdf) for each facilitator.
 * A timer, an iPad or similar is ideal.
-
-If, as in this exercise, you make reference to a Cloud environment, you may like to provide a reference sheet of services such as the [GCP Cheatsheet](./materials/gcp-poster.pdf).
 
 ![Room Setup](./materials/img/room.jpg)
 
