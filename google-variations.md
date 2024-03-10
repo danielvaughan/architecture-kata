@@ -15,3 +15,7 @@ The task is as a variation one, but in addition, the teams are given the [Google
 ## 3. Google GenAI Variation
 
 The task builds on variation one or two. However, with 30 minutes remaining of the design session, the teams are given access to a laptop with Google Gemini or Duet AI and encouraged to ask for assistance in making design decisions.
+
+## Resources
+
+* [GDG Resources](https://communityleads.dev/home/event-resources/all-meetup-content/content-hub-cloud/cloud-architecture)
